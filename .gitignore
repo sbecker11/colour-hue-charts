@@ -1,7 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-munsell-hue-charts-0to14/*
-munsell-hue-charts-2to14/*
+images/*
 
 # compiled output
 /dist
